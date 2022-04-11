@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hadrien.albrecht@gmail.com
+	name = hadrien albrecht
